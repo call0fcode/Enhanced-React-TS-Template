@@ -20,7 +20,7 @@ configure everything everytime from scratch.
 Create the project by cloning it. It creates a folder called "react-project".
 
 ```bash
-git clone https://github.com/call0fcode/Vite-React-TS-Boilerplate.git react-project
+git clone https://github.com/call0fcode/Enhanced-React-Template react-project
 ```
 
 Access the project directory.
