@@ -1,4 +1,4 @@
-# React Project Boilerplate
+# Enhanced React Template
 
 This is a template for those who want to start a React project without having to
 configure everything everytime from scratch.
