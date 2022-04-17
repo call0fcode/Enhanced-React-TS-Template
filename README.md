@@ -1,6 +1,7 @@
-# Vite + React / TypeScript Boilerplate
+# React Project Boilerplate
 
-This is a template for those who want to start a React project (with TypeScript and Vite as development environment) without having to configure everithing everytime from scratch.
+This is a template for those who want to start a React project without having to
+configure everything everytime from scratch.
 
 ## Which features does it include?
 
@@ -34,8 +35,8 @@ Install dependencies.
 npm install
 ```
 
-Launch the project in development mode with hot reload at http://localhost:3000.
-It will be opened automatically on the default browser.
+Launch the project in development mode with hot reload at http://localhost:3000
+(it will be opened automatically on the default browser).
 
 ```bash
 npm run dev
