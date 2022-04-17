@@ -10,10 +10,6 @@ This is a template for those who want to start a React project (with TypeScript 
 - [Prettier](https://prettier.io/)
 - [ESLint](https://eslint.org/)
 - [SASS](https://sass-lang.com/)
-
-## Planned features to be included
-
-- [SASS](https://sass-lang.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ## Getting Started
