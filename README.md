@@ -5,6 +5,8 @@ configure everything everytime from scratch.
 
 ## Which features does it include?
 
+### Main features
+
 - [Vite](https://vitejs.dev/) as development environment
 - [React 18](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -12,6 +14,15 @@ configure everything everytime from scratch.
 - [ESLint](https://eslint.org/)
 - [SASS](https://sass-lang.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
+
+### Other features
+
+- [Official Tailwind CSS class sorting plugin](https://www.npmjs.com/package/prettier-plugin-tailwindcss)
+  for Prettier
+- PostCSS with
+  [Autoprefixer](https://www.npmjs.com/package/eslint-plugin-react-hooks)
+- [ESLint React Hooks plugin](https://www.npmjs.com/package/eslint-plugin-react-hooks)
+  which enforces the [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
 
 ## Getting Started
 
