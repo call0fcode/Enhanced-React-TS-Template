@@ -61,7 +61,22 @@ const Tech: React.FC<{ tech: Tech }> = ({ tech }) => {
 function App() {
   return (
     <main className="grid place-content-center bg-gray-400 py-10 px-5 lg:h-screen">
-      <div className="max-w-sm space-y-8 rounded-xl bg-white p-10 text-center shadow-xl lg:max-w-none">
+      <div className="relative max-w-sm space-y-8 rounded-xl bg-white p-10 text-center shadow-xl lg:max-w-none">
+        <a
+          href="https://github.com/call0fcode/Enhanced-React-Template"
+          target="_blank"
+          rel="noreferrer"
+          className="group absolute top-5 right-2/4 flex translate-x-2/4 items-center space-x-3 lg:right-5 lg:translate-x-0"
+        >
+          <p className="hidden text-xs blur transition-all duration-700 group-hover:opacity-100 group-hover:blur-0 lg:block lg:opacity-0">
+            View on GitHub
+          </p>
+          <img
+            src="https://api.iconify.design/logos:github-icon.svg?color=%23888888"
+            alt="GitHub Logo"
+            className="w-10 transition-all duration-700 group-hover:scale-110"
+          />
+        </a>
         <h1 className="text-4xl font-bold text-gray-700">
           Enhanced React Template
         </h1>
