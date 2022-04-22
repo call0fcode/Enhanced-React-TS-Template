@@ -63,7 +63,7 @@ function App() {
     <main className="grid place-content-center bg-gray-400 py-10 px-5 lg:h-screen">
       <div className="relative max-w-sm space-y-8 rounded-xl bg-white p-10 text-center shadow-xl lg:max-w-none">
         <a
-          href="https://github.com/call0fcode/Enhanced-React-Template"
+          href="https://github.com/call0fcode/Enhanced-React-TS-Template"
           target="_blank"
           rel="noreferrer"
           className="group absolute top-5 right-2/4 flex translate-x-2/4 items-center space-x-3 lg:right-5 lg:translate-x-0"
