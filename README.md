@@ -1,4 +1,4 @@
-# Enhanced React Template
+# Enhanced React + TypeScript Template
 
 This is a template for those who want to start a React project without having to
 configure everything everytime from scratch.
@@ -28,16 +28,16 @@ configure everything everytime from scratch.
 
 ### Install
 
-Create the project by cloning it. It creates a folder called "react-project".
+Create the project by cloning it. It creates a folder called "react-ts-project".
 
 ```bash
-git clone https://github.com/call0fcode/Enhanced-React-Template react-project
+git clone https://github.com/call0fcode/Enhanced-React-TS-Template react-ts-project
 ```
 
 Access the project directory.
 
 ```bash
-cd react-project
+cd react-ts-project
 ```
 
 Install dependencies.
